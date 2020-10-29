@@ -1,0 +1,21 @@
+{
+  "cSpell.words": [
+    "Karte",
+    "Szczegolow",
+    "Szczegoly",
+    "Tytulu",
+    "Zakupow",
+    "browserslist",
+    "dgrela",
+    "ilosc",
+    "sprawdz",
+    "tytul",
+    "usun",
+    "wieik",
+    "zmien"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
